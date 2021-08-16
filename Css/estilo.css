@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Home img{
+    object-fit: cover;
+    width: 100%;
+    height: 60vh;
+}
+body{
+    background-color:;
+}
+.historia{
+    text-align: center;
+    margin: 2rem 0rem;
+}
+.Logos{
+    display: flex;
+    justify-content: space-around;
+}
