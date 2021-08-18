@@ -1,1 +1,1 @@
-Repositório do site BugWare
+Repositório do site BugWare não tive tempo de terminar todas as sections peço desculpas
